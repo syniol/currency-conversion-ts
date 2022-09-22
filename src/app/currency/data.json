@@ -1,0 +1,38 @@
+[
+  {
+    "currencyCode": "EUR",
+    "exchangeRate": 0.87815
+  },
+  {
+    "currencyCode": "GBP",
+    "exchangeRate": 0.78569
+  },
+  {
+    "currencyCode": "CAD",
+    "exchangeRate": 1.31715
+  },
+  {
+    "currencyCode": "INR",
+    "exchangeRate": 69.3492
+  },
+  {
+    "currencyCode": "MXN",
+    "exchangeRate": 19.2316
+  },
+  {
+    "currencyCode": "AUD",
+    "exchangeRate": 1.43534
+  },
+  {
+    "currencyCode": "CNY",
+    "exchangeRate": 6.88191
+  },
+  {
+    "currencyCode": "MYR",
+    "exchangeRate": 4.13785
+  },
+  {
+    "currencyCode": "COP",
+    "exchangeRate": 3203.18
+  }
+]
