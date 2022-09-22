@@ -1,0 +1,48 @@
+[
+    [
+        "1 Euro to Dollars",
+        {
+            "targetCurrencyCode": "USD",
+            "exchanges": [{
+                "currencyCode": "EUR",
+                "amount": 1
+            }]
+        }
+    ],
+    [
+        "1 Dollar to British Pounds",
+        {
+            "targetCurrencyCode": "GBP",
+            "exchanges": [{
+                "currencyCode": "USD",
+                "amount": 1
+            }]
+        }
+    ],
+    [
+        "1 Euro to British Pounds",
+      {
+        "targetCurrencyCode": "GBP",
+        "exchanges": [{
+          "currencyCode": "EUR",
+          "amount": 1
+        }]
+      }
+    ],
+    [
+        "Add 13.12 Euro to 99 British Pounds to CAD",
+      {
+          "targetCurrencyCode": "CAD",
+          "exchanges": [
+              {
+                  "currencyCode": "EUR",
+                  "amount": 13.12
+              },
+              {
+                  "currencyCode": "GBP",
+                  "amount": 99
+              }
+          ]
+      }
+    ]
+]
