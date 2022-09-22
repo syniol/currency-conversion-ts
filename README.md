@@ -75,7 +75,9 @@ Created using Rich Domain-Driven Design. Main entry point is `exchange.ts` where
 context. Currency is a next model that is defined as Entity and Repository to supply 
 requested data for currency.
 
-// todo: Add Diagram here
+<p style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/syniol/currency-conversion-ts/main/docs/diagram.png" alt="Diagram of Architecture">
+</p>
 
 Money is the last object needed that also encapsulates Currency object.
 
