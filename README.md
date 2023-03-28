@@ -123,9 +123,5 @@ root of `src` and start the application again. Please see example below:
 ]
 ```
 
-#### Release Identifier
-`5b8d0fd276b6d288905ed2f63a934e057e8feca2`
-
-
 #### Credits
 Copyright &copy; 2022 Syniol Limited. All rights reserved.
